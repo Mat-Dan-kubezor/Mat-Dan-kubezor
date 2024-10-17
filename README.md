@@ -10,6 +10,7 @@
   Стек: python, numpy, pandas
 
 Дипломный проект Urban University:  
+
 * [Сравнение различных библиотек для машинного обучения: scikit-learn, TensorFlow и PyTorch: Реализовать задачи классификации и регрессии с использованием scikit-learn, TensorFlow и PyTorch, сравнить их производительность и удобство использования.](https://github.com/Mat-Dan-kubezor/UU_Diplom)
 
 🛠 Технологии:
@@ -20,6 +21,7 @@
 🚀 CodeWars :
 -->
 🔥 Моя статистика :
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mat-Dan-kubezor&theme=highcontrast&hide_border=true&border_radius=5&locale=ru)](https://git.io/streak-stats)
 
 
