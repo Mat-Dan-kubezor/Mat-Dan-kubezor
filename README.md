@@ -25,7 +25,6 @@
   <a href="https://www.djangoproject.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" style="max-width: 100%;"></a>
   <a href="https://www.docker.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" style="max-width: 100%;"></a>
 </p>
-Git Python HTML5 CSS3 MySQL Flask PostgreSQL Fast API Django Docker
 <!--
 🚀 CodeWars :
 -->
