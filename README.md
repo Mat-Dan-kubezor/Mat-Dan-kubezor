@@ -1,5 +1,5 @@
 ## Hi there 👋
-[<img src="https://sun9-65.userapi.com/impg/6ugz2Q2BQrzGHhxsKF7BOYI8gHeuTt3YWQ82BA/jBsWMBWgw90.jpg?size=807x422&quality=96&sign=ba098bc997572b742df6991ea757669d&c_uniq_tag=h779RKxXk9zJT56diOS7uaekFG1Y-WtFmO9h3p-U0XY&type=album" width="80" height="30">](https://t.me/MatDan_Bogam)\
+[<img src="https://sun9-65.userapi.com/impg/6ugz2Q2BQrzGHhxsKF7BOYI8gHeuTt3YWQ82BA/jBsWMBWgw90.jpg?size=807x422&quality=96&sign=ba098bc997572b742df6991ea757669d&c_uniq_tag=h779RKxXk9zJT56diOS7uaekFG1Y-WtFmO9h3p-U0XY&type=album" width="90" height="30">](https://t.me/MatDan_Bogam)
 
 Я начинающий Backend разработчик. Мой путь в it начался с онлайн-школы Urban University, где я завершил курс Python-разработчик! В настоящий момент нахожусь в поиске работы!
 
@@ -14,7 +14,7 @@ Git Python HTML5 CSS3 MySQL Flask PostgreSQL Fast API Django Docker
 🚀 CodeWars :
 -->
 🔥 Моя статистика :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mat-Dan-kubezor&theme=highcontrast&hide_border=true&border_radius=5&locale=ru)](https://git.io/streak-stats)\
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mat-Dan-kubezor&theme=highcontrast&hide_border=true&border_radius=5&locale=ru)](https://git.io/streak-stats)
 
 
 <!--
