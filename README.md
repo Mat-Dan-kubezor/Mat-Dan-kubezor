@@ -13,6 +13,7 @@
 * [Сравнение различных библиотек для машинного обучения: scikit-learn, TensorFlow и PyTorch: Реализовать задачи классификации и регрессии с использованием scikit-learn, TensorFlow и PyTorch, сравнить их производительность и удобство использования.](https://github.com/Mat-Dan-kubezor/UU_Diplom)
 
 🛠 Технологии:
+
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;">
