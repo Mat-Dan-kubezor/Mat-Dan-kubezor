@@ -1,5 +1,5 @@
-## Hi there 👋
-[<img src="https://sun9-65.userapi.com/impg/6ugz2Q2BQrzGHhxsKF7BOYI8gHeuTt3YWQ82BA/jBsWMBWgw90.jpg?size=807x422&quality=96&sign=ba098bc997572b742df6991ea757669d&c_uniq_tag=h779RKxXk9zJT56diOS7uaekFG1Y-WtFmO9h3p-U0XY&type=album" width="90" height="30">](https://t.me/MatDan_Bogam)
+## Привет👋 меня зовут Даниил
+[<img src="https://camo.githubusercontent.com/c2f78ed4e6c65c4bee20af08221ac2fb4a113cd1763afec0104b898e867fdf97/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d54656c656772616d266c6f676f3d74656c656772616d266c6162656c3d26636f6c6f723d324341354530266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="25">](https://t.me/MatDan_Bogam)
 
 Я начинающий Backend разработчик. Мой путь в it начался с онлайн-школы Urban University, где я завершил курс Python-разработчик! В настоящий момент нахожусь в поиске работы!
 
