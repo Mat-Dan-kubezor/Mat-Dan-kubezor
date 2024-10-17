@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![Изображение](https://sun9-65.userapi.com/impg/6ugz2Q2BQrzGHhxsKF7BOYI8gHeuTt3YWQ82BA/jBsWMBWgw90.jpg?size=807x422&quality=96&sign=ba098bc997572b742df6991ea757669d&c_uniq_tag=h779RKxXk9zJT56diOS7uaekFG1Y-WtFmO9h3p-U0XY&type=album)](https://t.me/MatDan_Bogam)/
-<img src="https://sun9-65.userapi.com/impg/6ugz2Q2BQrzGHhxsKF7BOYI8gHeuTt3YWQ82BA/jBsWMBWgw90.jpg?size=807x422&quality=96&sign=ba098bc997572b742df6991ea757669d&c_uniq_tag=h779RKxXk9zJT56diOS7uaekFG1Y-WtFmO9h3p-U0XY&type=album" width="80" height="30">
+[![Изображение]<img src="https://sun9-65.userapi.com/impg/6ugz2Q2BQrzGHhxsKF7BOYI8gHeuTt3YWQ82BA/jBsWMBWgw90.jpg?size=807x422&quality=96&sign=ba098bc997572b742df6991ea757669d&c_uniq_tag=h779RKxXk9zJT56diOS7uaekFG1Y-WtFmO9h3p-U0XY&type=album" width="80" height="30">)](https://t.me/MatDan_Bogam)/
+
 <!--
 **Mat-Dan-kubezor/Mat-Dan-kubezor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
